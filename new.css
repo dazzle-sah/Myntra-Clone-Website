@@ -1,3 +1,6 @@
+nav{
+    position: fixed;
+}
 ol {   
     position: fixed;
     width: 100%;
@@ -13,7 +16,17 @@ ol {
   }
   li {
     float: left;
-    padding-left: 70px;
+    padding-left: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+font-size: 19px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000; 
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
  
   }
   
@@ -33,5 +46,30 @@ ol {
 
   h2{
     padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 29px;
+font-weight: 1700;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+/* font-weight: 700; */
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+padding-left: 60px;
   }
   
+  .two{
+    margin-left: 40px;
+  }
+  .three{
+    margin-left: 40px;
+  }
+  .four{
+    margin-left: 40px;
+  }
+  .five{
+    margin-left: 40px;
+  }
+ 
