@@ -89,3 +89,34 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+
+.foot{
+  margin-top: 10px;
+  background-color: rgb(201, 201, 201);
+  padding: 40px;
+  padding-right: 80px;
+}
+h4{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: 1700;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  /* font-weight: 700; */
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 1700;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  /* font-weight: 700; */
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+}
